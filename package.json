@@ -1,0 +1,31 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "A simple chat application made using Node, Express & SocketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahamedzoha/chatapp.git"
+  },
+  "keywords": [
+    "socketIO",
+    "chat",
+    "socket",
+    "node",
+    "express"
+  ],
+  "author": "Azaz Ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahamedzoha/chatapp/issues"
+  },
+  "homepage": "https://github.com/ahamedzoha/chatapp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.1.0"
+  }
+}
